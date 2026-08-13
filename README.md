@@ -1,4 +1,3 @@
-
 # Hi there, I'm Otari (Oto) 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/mukhulishviliotari-ops?style=social)](https://github.com/mukhulishviliotari-ops)
@@ -40,4 +39,5 @@ I'm a developer and student focused on C++, WebAssembly, systems programming, an
 
 ### 📫 Connect With Me
 
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TaJC2ezw)
 * **GitHub Pages:** [mukhulishviliotari-ops.github.io](https://mukhulishviliotari-ops.github.io)
