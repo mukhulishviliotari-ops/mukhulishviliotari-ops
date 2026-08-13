@@ -33,6 +33,11 @@ I'm a developer and student focused on C++, WebAssembly, systems programming, an
 * 🎛️ **[Ableton](https://github.com/mukhulishviliotari-ops/ableton)** — A web-based DAW interface with interactive mixer controls and dark-themed UI.
 * 🎵 **[Music25](https://github.com/mukhulishviliotari-ops/music25)** — A modern web app for browsing, streaming, and managing custom music playlists.
 
+###Live Demos
+* 🎲 **[Math WASM Game](https://math145.netlify.app/)**
+* 🎨 **Abstract:** [Live Demo](https://abstract247.netlify.app/)
+* 🎛️ **Ableton:** [Live Demo](https://ableton46.netlify.app/)
+* 🎵 **Music25:** [Live Demo](https://musicplayer023.netlify.app/) 
 ---
 
 ### 📫 Connect With Me
