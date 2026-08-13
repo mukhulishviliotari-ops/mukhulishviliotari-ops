@@ -30,13 +30,6 @@ I'm a developer and student focused on C++, WebAssembly, systems programming, an
 
 ---
 
-### ⚡ Quick Stats
-
-![Otari's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukhulishviliotari-ops&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukhulishviliotari-ops&layout=compact&theme=dark)
-
----
-
 ### 📫 Connect With Me
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TaJC2ezw)
