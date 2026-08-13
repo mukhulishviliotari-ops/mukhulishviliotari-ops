@@ -40,4 +40,6 @@ I'm a developer and student focused on C++, WebAssembly, systems programming, an
 ### 📫 Connect With Me
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TaJC2ezw)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/otari_796/)
+
 * **GitHub Pages:** [mukhulishviliotari-ops.github.io](https://mukhulishviliotari-ops.github.io)
