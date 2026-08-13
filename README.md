@@ -33,6 +33,15 @@ I'm a developer and student focused on C++, WebAssembly, systems programming, an
 * 🎛️ **[Ableton](https://github.com/mukhulishviliotari-ops/ableton)** — A web-based DAW interface with interactive mixer controls and dark-themed UI.
 * 🎵 **[Music25](https://github.com/mukhulishviliotari-ops/music25)** — A modern web app for browsing, streaming, and managing custom music playlists.
 
+## ⚡ Currently Focusing On
+
+* 💡 **Deepening C++ Knowledge:** Object-Oriented Programming (OOP), memory management, memory pointers, and data structures.
+* ⚡ **WebAssembly (WASM):** Compiling C++ programs into WASM using Emscripten to run native code in web browsers.
+* 🛠️ **Linux & Environment:** Customizing Linux systems, shell scripting, and terminal workflow tools.
+* 🌐 **Full-Stack Fundamentals:** Web development with HTML, CSS, JavaScript, React, and TypeScript.
+
+---
+
 ###Live Demos
 * 🎲 **[Math WASM Game](https://math145.netlify.app/)**
 * 🎨 **Abstract:** [Live Demo](https://abstract247.netlify.app/)
