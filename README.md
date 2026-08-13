@@ -1,4 +1,4 @@
-# Hi there, I'm Otari (Oto) 👋
+# Hi there, I'm Oto 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/mukhulishviliotari-ops?style=social)](https://github.com/mukhulishviliotari-ops)
 [![Location](https://img.shields.io/badge/Location-Georgia-blue?style=flat&logo=googlemaps)](https://maps.google.com)
