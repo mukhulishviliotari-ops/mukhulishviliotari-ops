@@ -46,7 +46,8 @@ I'm a developer and student focused on C++, WebAssembly, systems programming, an
 * 🎲 **[Math WASM Game](https://math145.netlify.app/)**
 * 🎨 **Abstract:** [Live Demo](https://mukhulishviliotari-ops.github.io/Abstract/)
 * 🎛️ **Ableton:** [Live Demo](https://mukhulishviliotari-ops.github.io/ableton/)
-* 🎵 **Music25:** [Live Demo](https://mukhulishviliotari-ops.github.io/music25/) 
+* 🎵 **Music25:** [Live Demo](https://mukhulishviliotari-ops.github.io/music25/)
+  
 ---
 
 ### 📫 Connect With Me
