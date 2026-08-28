@@ -28,6 +28,7 @@ I'm a developer and student focused on C++, WebAssembly, systems programming, an
 
 ### 🚀 Projects
 
+
 * 🎲 **[Math WASM Game](https://mukhulishviliotari-ops.github.io/math-wasm-game/)** — A web-based equation game powered by C++ compiled to WebAssembly via Emscripten.
 * 🎨 **[Abstract](https://github.com/mukhulishviliotari-ops/abstract)** — A clean, responsive frontend clone of the Abstract Help Center UI layout.
 * 🎛️ **[Ableton](https://github.com/mukhulishviliotari-ops/ableton)** — A web-based DAW interface with interactive mixer controls and dark-themed UI.
