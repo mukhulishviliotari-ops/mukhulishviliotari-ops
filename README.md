@@ -48,7 +48,7 @@ I'm a developer and student focused on C++, WebAssembly, systems programming, an
 * 🎨 **Abstract:** [Live Demo](https://mukhulishviliotari-ops.github.io/Abstract/)
 * 🎛️ **Ableton:** [Live Demo](https://mukhulishviliotari-ops.github.io/ableton/)
 * 🎵 **Music25:** [Live Demo](https://mukhulishviliotari-ops.github.io/music25/)
-* **Reading-app** [Live Demo](https://github.com/mukhulishviliotari-ops/Reading-App)
+* **Reading-app** [Live Demo](https://mukhulishviliotari-ops.github.io/Reading-App/)
   
 ---
 
