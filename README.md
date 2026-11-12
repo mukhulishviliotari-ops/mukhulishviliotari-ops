@@ -28,9 +28,8 @@ I'm a developer and student focused on C++, WebAssembly, systems programming, an
 
 ### 🚀 Projects
 
-
-* 🎲 **[Math WASM Game](https://mukhulishviliotari-ops.github.io/math-wasm-game/)** — A web-based equation game powered by C++ compiled to WebAssembly via Emscripten.
-* 🎨 **[Abstract](https://github.com/mukhulishviliotari-ops/abstract)** — A clean, responsive frontend clone of the Abstract Help Center UI layout.
+* 🎲 **[Math WASM Game](https://github.com/mukhulishviliotari-ops/math)** — A web-based equation game powered by C++ compiled to WebAssembly via Emscripten.
+* 🎨 **[Abstract](https://github.com/mukhulishviliotari-ops/Abstract)** — A clean, responsive frontend clone of the Abstract Help Center UI layout.
 * 🎛️ **[Ableton](https://github.com/mukhulishviliotari-ops/ableton)** — A web-based DAW interface with interactive mixer controls and dark-themed UI.
 * 🎵 **[Music25](https://github.com/mukhulishviliotari-ops/music25)** — A modern web app for browsing, streaming, and managing custom music playlists.
 
@@ -48,7 +47,7 @@ I'm a developer and student focused on C++, WebAssembly, systems programming, an
 * 🎨 **Abstract:** [Live Demo](https://mukhulishviliotari-ops.github.io/Abstract/)
 * 🎛️ **Ableton:** [Live Demo](https://mukhulishviliotari-ops.github.io/ableton/)
 * 🎵 **Music25:** [Live Demo](https://mukhulishviliotari-ops.github.io/music25/)
-* **Reading-app** [Live Demo](https://mukhulishviliotari-ops.github.io/Reading-App/)
+* **Reading App** [Live Demo](https://mukhulishviliotari-ops.github.io/Reading-App/)
   
 ---
 
